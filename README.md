@@ -34,7 +34,9 @@ Em seguida deve-se executar também localmente o front end, para isso existem du
 ## Built With
 
 * [Node.Js](https://nodejs.org/en/) - The web framework used
-* [VueJS](https://vuejs.org/) - Web Framework utilizada
+* [VueJS 2](https://vuejs.org/) - Web Framework utilizada
+* [Axios](https://github.com/mzabriskie/axios) - Web library utilizada
+* [The Mask Vue](https://vuejs-tips.github.io/vue-the-mask/) - VueJS plugin utilizado
 
 ## Authors
 
