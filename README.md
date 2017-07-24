@@ -29,7 +29,7 @@ node server.js
 ```
 Note que o servidor roda localmente fazendo uso da porta 3000, caso seja necessário alterar tal configuração acesse o arquivo *server.js* e altere, no fim do arquivo o número da porta a ser escutada pelo servidor. Esse arquivo pode ser encontrado dentro da mesma pasta anteriormente citada.
 
-Em seguida deve-se executar também localmente o front end, para isso existem duas maneiras. A primeira delas consiste em usar um servidor como *XAMPP* ou *WAMPP* para executá-lo em localhost. A outra maneira é simplesmente abrir no navegador o arquivo denominado *index.js* encontrado dentro da pasta *layout*. Note também que caso seja necessário alterar a porta escutada pelo servidor a rota utilizada para a submissão do form deve ser também adaptada.
+Em seguida deve-se executar também localmente o front end, para isso existem duas maneiras. A primeira delas consiste em usar um servidor como *XAMPP* ou *WAMPP* para executá-lo em localhost. A outra maneira é simplesmente abrir no navegador o arquivo denominado *index.html* encontrado dentro da pasta *layout*. Note também que caso seja necessário alterar a porta escutada pelo servidor a rota utilizada para a submissão do form deve ser também adaptada.
 
 ## Built With
 
