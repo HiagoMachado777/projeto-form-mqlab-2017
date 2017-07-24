@@ -37,6 +37,8 @@ Em seguida deve-se executar também localmente o front end, para isso existem du
 * [VueJS 2](https://vuejs.org/) - Web Framework utilizada
 * [Axios](https://github.com/mzabriskie/axios) - Web library utilizada
 * [The Mask Vue](https://vuejs-tips.github.io/vue-the-mask/) - VueJS plugin utilizado
+* [Font Awesome Icons](http://fontawesome.io/icons/) - CSS icons library utlizada
+* [Postmon - The Postman](http://postmon.com.br/) - API de consulta de endereços por CEP 
 
 ## Authors
 
