@@ -8,15 +8,19 @@ As instruções aqui descritas vão providenciar uma cópia funcional do projeto
 
 ### Prerequisites
 
-Para executar o projeto basta baixar os arquivos presentes no repositório, ter uma máquina conectada a internet e node.js instalado. Caso não possua o node na máquina basta fazer o download do pacote através do [site oficial](https://nodejs.org/en/).
+Para executar o projeto basta baixar os arquivos presentes no repositório, ter uma máquina conectada a internet e node.js instalado. Caso não possua o node na máquina basta fazer o download do pacote através do [site oficial](https://nodejs.org/en/). Além disso existem alguns modulos do node.js que devem ser instalados. Para isso deve-se acessar através da linha de comando, a partir da pasta root, a pasta server e em seguida executar a seguinte instrução. 
+
+```
+npm install --save express body-parser pdfkit string-pixel-width blob-stream
+```
 
 ### Installing
 
-A instalação consiste em apenas executar o download de todos os arquivos presentes neste repositório.
+A instalação consiste em apenas executar o download de todos os arquivos presentes neste repositório assim como dos pre-requisitos.
 
 ## Executing
 
-Assim que todos os arquivos necessários estiverem na máquina local e os programas adicionais devidamente instalados deve-se então inicializar o servidor realizando os seguintes procedimentos. A partir da pasta root do projeto acesse, através da linha de comando, o diretorio denominado *server* e em seguida de um start no servidor, para isso os comandos linux/OSX necessários podem ser encontrados abaixo:
+Assim que todos os arquivos necessários estiverem na máquina local e os programas adicionais devidamente instalados deve-se então inicializar o servidor realizando os seguintes procedimentos. A partir da pasta root do projeto acesse, através da linha de comando, o diretorio denominado *server* e em seguida de um start no servidor, para isso os comandos necessários podem ser encontrados abaixo:
 
 ```
 cd server
